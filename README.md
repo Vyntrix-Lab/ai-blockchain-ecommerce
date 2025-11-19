@@ -1,4 +1,4 @@
-# ai-blockchain-ecommerce
+# Vyntrix-lab
 An AI and blockchain integrated e-commerce ecosystem for next-generation online businesses.
 
 # VYNTRIX
